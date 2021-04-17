@@ -1,0 +1,23 @@
+h1{
+    color:rgba(121, 110, 89, 0.897)
+}
+.header{
+    background-color: rgb(80, 219, 80);
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid rgba(172, 135, 68, 0.897);
+    border-radius: 50px;
+}
+.menu{
+    background-color:rgb(40, 175, 119);
+    display: flexbox;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.footer{
+    background-color: rgb(39, 163, 163);
+    display:flex ;
+    flex-wrap: wrap;
+    border: 2px solid rgb(202, 24, 24);
+    border-radius: 40px;
+}
